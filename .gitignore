@@ -1,0 +1,9 @@
+.env
+venv
+__pycache__
+.pytest_cache
+.coverage
+.DS_Store
+
+# Large data file. Can be found on https://github.com/LinkedInLearning/artificial-intelligence-foundations-machine-learning-3067770/blob/main/housing.csv
+housing.csv

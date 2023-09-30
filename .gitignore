@@ -4,3 +4,6 @@ venv
 
 # Large data file. Can be found on https://github.com/LinkedInLearning/artificial-intelligence-foundations-machine-learning-3067770/blob/main/housing.csv
 *housing.csv
+
+# Model files
+*.pkl
